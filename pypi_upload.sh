@@ -4,7 +4,7 @@
 set -e
 
 echo -e "\nCleaning up existing pieces"
-rm -rf dist pynotification.egg-info
+rm -rf dist *.egg-info
 
 echo -e "\nUpgrading pip"
 python -m pip install --upgrade pip
@@ -23,6 +23,8 @@ if [[ $prompt =~ [yY](es)* ]]
   then
     echo -e "\nUploading to pypi"
     twine upload dist/*.whl
+    echo -e "\nCleaning up"
+    rm -rf dist *.egg-info
   else
       echo -e "BUILD PROCESS TERMINATED\n"
 fi

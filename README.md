@@ -1,11 +1,12 @@
 # PyControls
 OS-agnostic modules to control the host machine
 
-[![pypi-publish](https://github.com/thevickypedia/volume-control/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/volume-control/actions/workflows/python-publish.yml)
+[//]: # (![Python]&#40;https://img.shields.io/badge/pypi_pynotification-passing-brightgreen&#41;)
+[//]: # (![Python]&#40;https://img.shields.io/badge/pypi_volume_control-passing-brightgreen&#41;)
 
 ### Sub-Modules
-- [Volume Controller](https://github.com/thevickypedia/volume-control)
-- [Notification Hub](https://github.com/thevickypedia/pynotification)
+- [volume-control](https://github.com/thevickypedia/volume-control)&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/volume-control/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/volume-control/actions/workflows/python-publish.yml)
+- [pynotification](https://github.com/thevickypedia/pynotification)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml)
 
 ## Installation
 ```shell
