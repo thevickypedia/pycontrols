@@ -18,7 +18,9 @@ keywords = ["system", "notification"]
 requires-python = ">=3"
 dependencies = [
     "pynotification",
-    "volume-control"
+    "volume-control",
+    "pybrightness",
+    "pywifi-controls"
 ]
 
 [tool.setuptools]
@@ -30,9 +32,6 @@ version = {attr = "pycontrols.version"}
 [build-system]
 requires      = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
-
-#[project.optional-dependencies]
-#dev = ["pytest", "pre-commit"]
 
 [project.urls]
 Homepage = "https://github.com/thevickypedia/pycontrols"
