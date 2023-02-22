@@ -8,6 +8,7 @@ OS-agnostic modules to control the host machine
 - [pynotification](https://github.com/thevickypedia/pynotification)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml)
 - [pybrightness](https://github.com/thevickypedia/pybrightness)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/pybrightness/actions/workflows/python-publish.yml)
 - [pywifi-controls](https://github.com/thevickypedia/pywifi-controls)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/pywifi-controls/actions/workflows/python-publish.yml)
+- [pywslocker](https://github.com/thevickypedia/pywslocker)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/pywslocker/actions/workflows/python-publish.yml)
 
 ## License & copyright
 

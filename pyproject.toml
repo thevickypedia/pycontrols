@@ -17,10 +17,11 @@ classifiers = [
 keywords = ["system", "notification"]
 requires-python = ">=3"
 dependencies = [
-    "pynotification",
     "volume-control",
+    "pynotification",
     "pybrightness",
-    "pywifi-controls"
+    "pywifi-controls",
+    "pywslocker"
 ]
 
 [tool.setuptools]
