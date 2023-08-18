@@ -1,14 +1,18 @@
-[![pypi-publish](https://github.com/thevickypedia/pycontrols/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/pycontrols/actions/workflows/python-publish.yml)
+![pypi-publish](https://github.com/thevickypedia/pycontrols/actions/workflows/python-publish.yml/badge.svg)
 
 # PyControls
+
 OS-agnostic modules to control the host machine
 
-### Sub-Modules
-- [volume-control](https://github.com/thevickypedia/volume-control)&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/volume-control/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/volume-control/actions/workflows/python-publish.yml)
-- [pynotification](https://github.com/thevickypedia/pynotification)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml)
-- [pybrightness](https://github.com/thevickypedia/pybrightness)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/pybrightness/actions/workflows/python-publish.yml)
-- [pywifi-controls](https://github.com/thevickypedia/pywifi-controls)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/pywifi-controls/actions/workflows/python-publish.yml)
-- [pywslocker](https://github.com/thevickypedia/pywslocker)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg)](https://github.com/thevickypedia/pywslocker/actions/workflows/python-publish.yml)
+
+| **Sub Modules**                                                     | **PyPi Publish Status**                                                                                         |
+|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| [volume-control](https://github.com/thevickypedia/volume-control)   | ![pypi-publish](https://github.com/thevickypedia/volume-control/actions/workflows/python-publish.yml/badge.svg) |
+| [pywifi-controls](https://github.com/thevickypedia/pywifi-controls) | ![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg) |
+| [pynotification](https://github.com/thevickypedia/pynotification)   | ![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg) |
+| [pybrightness](https://github.com/thevickypedia/pybrightness)       | ![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg) |
+| [block-stdout](https://github.com/thevickypedia/block-stdout)       | ![pypi-publish](https://github.com/thevickypedia/block-stdout/actions/workflows/python-publish.yml/badge.svg)   |
+| [pywslocker](https://github.com/thevickypedia/pywslocker)           | ![pypi-publish](https://github.com/thevickypedia/pynotification/actions/workflows/python-publish.yml/badge.svg) |
 
 ## License & copyright
 

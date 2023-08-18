@@ -14,13 +14,14 @@ classifiers = [
     "Operating System :: POSIX :: Linux",
     "Topic :: Terminals :: Terminal Emulators/X Terminals"
 ]
-keywords = ["system", "notification"]
+keywords = ["system", "notification", "volume", "wifi", "console", "stdout", "workstation"]
 requires-python = ">=3"
 dependencies = [
     "volume-control",
     "pynotification",
-    "pybrightness",
     "pywifi-controls",
+    "block-stdout",
+    "pybrightness",
     "pywslocker"
 ]
 
